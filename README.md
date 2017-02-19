@@ -26,7 +26,7 @@ Author: **Huy Dang**
 
 ## Video Walkthrough
 
-<img src="http://coming soon"/>
+[![Video Walkthrough](video_cover.png)](https://youtu.be/dXvf-v2XVPg)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
